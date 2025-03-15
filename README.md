@@ -33,6 +33,4 @@ pip install pandas numpy scipy seaborn matplotlib missingno
 ## License
 This project is licensed under the MIT License.
 
-## Author
-[Your Name]
 
